@@ -34,30 +34,6 @@ const workSlides = {
         },
       ],
     },
-    {
-      images: [
-        {
-          title: "title",
-          path: "/placeholder_try.jpeg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/placeholder_try.jpeg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/placeholder_try.jpeg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/placeholder_try.jpeg",
-          link: "http://example.com",
-        },
-      ],
-    },
   ],
 };
 

@@ -76,36 +76,6 @@ export const aboutData = [
       },
     ],
   },
-  // {
-  //   title: "awards",
-  //   info: [
-  //     {
-  //       title: "Webby Awards - Honoree",
-  //       stage: "2011 - 2012",
-  //     },
-  //     {
-  //       title: "Adobe Design Achievement Awards - Finalist",
-  //       stage: "2009 - 2010",
-  //     },
-  //   ],
-  // },
-  // {
-  //   title: "experience",
-  //   info: [
-  //     {
-  //       title: "UX/UI Designer - XYZ Company",
-  //       stage: "2012 - 2023",
-  //     },
-  //     {
-  //       title: "Web Developer - ABC Agency",
-  //       stage: "2010 - 2012",
-  //     },
-  //     {
-  //       title: "Intern - DEF Corporation",
-  //       stage: "2008 - 2010",
-  //     },
-  //   ],
-  // },
   {
     title: "credentials",
     info: [
@@ -138,7 +108,7 @@ const About = () => {
 
       {/* avatar img */}
       <motion.div
-        variants={fadeIn("right", 0.2)}
+        variants={fadeIn("right", 0.9)}
         initial="hidden"
         animate="show"
         exit="hidden"
@@ -151,7 +121,7 @@ const About = () => {
         {/* text */}
         <div className="flex-1 flex flex-col justify-center">
           <motion.h2
-            variants={fadeIn("right", 0.2)}
+            variants={fadeIn("right", 0.9)}
             initial="hidden"
             animate="show"
             exit="hidden"

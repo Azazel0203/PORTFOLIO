@@ -1,28 +1,13 @@
 import Link from "next/link";
 
 import {
-  // RiYoutubeLine,
-  // RiInstagramLine,
-  // RiFacebookLine,
-  // RiDribbbleLine,
   RiGithubLine,
-  // RiPinterestLine,
   RiLinkedinLine,
   RiMailLine,
 } from "react-icons/ri";
 import { FaDiscord } from "react-icons/fa";
 
 export const socialData = [
-  // {
-  //   name: "YouTube",
-  //   link: "https://youtube.com",
-  //   Icon: RiYoutubeLine,
-  // },
-  // {
-  //   name: "Instagram",
-  //   link: "https://instagram.com",
-  //   Icon: RiInstagramLine,
-  // },
   {
     name: "Discord",
     link: "https://discordapp.com/users/776514582234791987",
@@ -38,21 +23,6 @@ export const socialData = [
     link: "https://www.linkedin.com/in/aadarsh-singh-mlai",
     Icon: RiLinkedinLine,
   },
-  // {
-  //   name: "Facebook",
-  //   link: "https://facebook.com",
-  //   Icon: RiFacebookLine,
-  // },
-  // {
-  //   name: "Dribbble",
-  //   link: "https://dribbble.com",
-  //   Icon: RiDribbbleLine,
-  // },
-  // {
-  //   name: "Pinterest",
-  //   link: "https://pinterest.com",
-  //   Icon: RiPinterestLine,
-  // },
   {
     name: "Github",
     link: "https://github.com/Azazel0203",
