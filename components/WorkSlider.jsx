@@ -19,7 +19,7 @@ const workSlides = {
         },
         {
           title: "Sentiment Analyser",
-          path: "/placeholder_try.jpeg",
+          path: "/sentiment.jpeg",
           link: "https://github.com/Azazel0203/Sentiment_Analyser",
         },
         {
