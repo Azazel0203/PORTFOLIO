@@ -1,5 +1,4 @@
 import { Sora } from "next/font/google";
-import { SpeedInsights } from "@vercel/speed-insights/next"
 import Head from "next/head";
 
 import Header from "../components/Header";
@@ -39,7 +38,6 @@ const Layout = ({ children }) => {
 
       {/* main content */}
       {children}
-      <SpeedInsights />
     </main>
   );
 };
