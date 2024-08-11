@@ -84,7 +84,7 @@ export const aboutData = [
         stage: "2025",
       },
       {
-        title: "Specialist at CodeForces",
+        title: "Expert at CodeForces",
         stage: "2023",
       },
       {
